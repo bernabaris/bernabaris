@@ -1,7 +1,6 @@
 ### 
 Hi there 👋 I'm Berna!
 
-- 🌱 I’m currently learning DevOps
 - 📫 How to reach me: bernabaris1@gmail.com
 - 😄 Pronouns: she/they
 <!--
