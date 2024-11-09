@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Habibe Berna Baris</h1>
-<h3 align="center">Sharer who approaches problems with a solution-oriented approach ,is responsible, motivates myself more with small appreciations. Explorer who is eager to keep up with innovative technology in our lives and improve myself every passing day and continues to add value to myself and society.
+<h3 align="center">Practical problem solver who approaches problems with a solution-oriented approach ,is responsible, motivates myself more with small appreciations. Explorer who is eager to keep up with innovative technology in our lives and improve myself every passing day and continues to add value to myself and society.
 </h3>
 
 - 📫 How to reach me **bernabaris1@gmail.com**
